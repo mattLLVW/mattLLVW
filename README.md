@@ -16,8 +16,9 @@ You can reach me on:
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/mattLLVW).
 
+![mattLLVW's github stats](https://github-readme-stats.vercel.app/api?username=mattLLVW&show_icons=true&count_private=true&line_height=40&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattLLVW&hide=html&theme=radical)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=mattLLVW&show_icons=true&count_private=true&line_height=40&theme=radical)
+
 
 <!--
 **mattLLVW/mattLLVW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
