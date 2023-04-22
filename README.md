@@ -6,12 +6,12 @@ I created [Alcali](https://alcali.dev), a web ui for [Saltstack](https://github.
 
 ![alcali](https://github.com/latenighttales/alcali/blob/develop/docs/docs/images/screenshots/minion-detail-dark.png "alcali")
 
-I also do some silly projects like [display gifs in your terminal](https://e.xec.sh).
+I also do some silly projects like [display gifs in your terminal](https://gif.xyzzy.run/).
 
 ![e.xec.sh](https://github.com/mattLLVW/e.xec.sh/blob/master/static/img/magic.gif "e.xec.sh")
 
 You can reach me on:
-- twitter: [@mattLLVW](https://twitter.com/mattLLVW)
+- twitter: ~~[@mattLLVW]~~(https://twitter.com/mattLLVW)
 - mail: [matt.LLVW@gmail.com](mailto:matt.LLVW@gmail.com)
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/mattLLVW).
